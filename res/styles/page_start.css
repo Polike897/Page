@@ -28,7 +28,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            color:#ddff1e;
+            color:#681219;
             font-size: 300%;
         }
         .about-me-block {
@@ -36,7 +36,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            color:#29ff94;
+            color:#5ee064;
         }
         .links-block {
             grid-area: links;
@@ -121,8 +121,8 @@
         display: inline-flex;
         position: relative;
         align-self: flex-end;
-        background: #ddff1e;
-        color: red;
+        background: #959c68;
+        color: rgb(106, 243, 174);
         padding: 8px 16px;
         text-decoration: none;
     }
